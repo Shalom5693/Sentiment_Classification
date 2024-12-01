@@ -1,0 +1,14 @@
+# Ignore large data files and results
+DATA/
+*.json
+*.jsonl
+*.csv
+*.gz
+*.zip
+*.tar
+*.h5
+*.pickle
+*.pkl
+*.tsv
+
+.DS_Store
