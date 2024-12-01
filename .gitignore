@@ -177,3 +177,4 @@ DATA/
 DATA/*.csv
 DATA/*.json
 
+DATA/*
