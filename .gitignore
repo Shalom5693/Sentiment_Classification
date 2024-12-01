@@ -9,6 +9,9 @@ DATA/
 # Ignore all .csv files
 *.csv
 
+# Ignore all .csv files
+*.json
+
 # Ignore all .txt files
 *.txt
 
