@@ -1,6 +1,7 @@
 # Ignore large data files and results
 /DATA/
 /DATA/raw
+/DATA/processed
 *.json
 *.jsonl
 *.csv
