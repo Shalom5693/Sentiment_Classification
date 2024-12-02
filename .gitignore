@@ -1,5 +1,6 @@
 # Ignore large data files and results
-DATA/
+/DATA/
+/DATA/raw
 *.json
 *.jsonl
 *.csv
@@ -10,5 +11,6 @@ DATA/
 *.pickle
 *.pkl
 *.tsv
+*.txt
 
 .DS_Store
