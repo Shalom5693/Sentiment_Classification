@@ -1,2 +1,6 @@
 ndjson
 imbalanced-learn
+transformers
+torch
+datasets
+accelerate
